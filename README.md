@@ -10,7 +10,7 @@
     <a href="https://hacktoberfest.digitalocean.com/">
             <img src="https://img.shields.io/badge/Hacktoberfest%202019-Win%20a%20T--Shirt-critical"></img>
 </a>
-<a href="https://wajahatkarim.com">
+<a href="https://thedoc.eu.org">
         <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></img>
 </a>
     <a href="https://github.com/wajahatkarim3/Hacktoberfest2019/fork">
@@ -65,7 +65,6 @@ It's very easy. You don't need to be an expert in coding and programming. Here a
 3. Edit the file and insert your short profile with the following text
 ```
 ### YOUR FULL NAME
-- Photo: YOUR PHOTO URL
 - Location: YOUR CITY, COUNTRY
 - Bio: YOUR 1-2 LINES BIO
 - Github: YOUR GITHUB URL
@@ -74,11 +73,10 @@ It's very easy. You don't need to be an expert in coding and programming. Here a
 Here's an example of my profile
 
 ```
-### Wajahat Karim
-- Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
-- Location: Karachi, Pakistan
+### Rohit Sharma
+- Location: India
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
-- Github: https://github.com/wajahatkarim3
+- Github: https://github.com/damionx7
 ***
 ```
 4. Now click on Commit button.
@@ -97,9 +95,6 @@ I am creating a simple website called as **Awesome Contributors of Hacktoberfest
 ## 👨 Developed & Maintained By
 
 ```
-Wajahat Karim
+Rohit Sharma
 ```
-- Website (http://wajahatkarim.com)
-- Twitter (http://twitter.com/wajahatkarim)
-- Medium (http://www.medium.com/@wajahatkarim3)
-- LinkedIn (http://www.linkedin.com/in/wajahatkarim)
+- Website (https://thedoc.eu.org)
