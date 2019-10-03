@@ -74,9 +74,8 @@ It's very easy. You don't need to be an expert in coding and programming. Here a
 Here's an example of my profile
 
 ```
-### Wajahat Karim
-- Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
-- Location: Karachi, Pakistan
+### Rohit Sharma
+- Location: India
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
 ***
@@ -97,9 +96,6 @@ I am creating a simple website called as **Awesome Contributors of Hacktoberfest
 ## 👨 Developed & Maintained By
 
 ```
-Wajahat Karim
+Rohit Sharma
 ```
-- Website (http://wajahatkarim.com)
-- Twitter (http://twitter.com/wajahatkarim)
-- Medium (http://www.medium.com/@wajahatkarim3)
-- LinkedIn (http://www.linkedin.com/in/wajahatkarim)
+- Website (https://thedoc.eu.org)
