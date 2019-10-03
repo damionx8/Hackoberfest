@@ -65,7 +65,6 @@ It's very easy. You don't need to be an expert in coding and programming. Here a
 3. Edit the file and insert your short profile with the following text
 ```
 ### YOUR FULL NAME
-- Photo: YOUR PHOTO URL
 - Location: YOUR CITY, COUNTRY
 - Bio: YOUR 1-2 LINES BIO
 - Github: YOUR GITHUB URL
@@ -77,7 +76,7 @@ Here's an example of my profile
 ### Rohit Sharma
 - Location: India
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
-- Github: https://github.com/wajahatkarim3
+- Github: https://github.com/damionx7
 ***
 ```
 4. Now click on Commit button.
