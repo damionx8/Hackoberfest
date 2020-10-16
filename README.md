@@ -1,4 +1,4 @@
-![](https://res.cloudinary.com/wajahatkarimcom/image/upload/v1569872594/AwesomeContributors_cover.jpg)
+![](https://res.cloudinary.com/wajahatkarimcom/image/upload/v1569872594/AwesomeContributors_cover.jpg) 
 
 <h1 align="center"><a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fwajahatkarim3%2FHacktoberfest2019&text=Are%20you%20ready%20for%20%23Hacktoberfest%202019%3F%20Support%20Open%20Source%20in%20October%20and%20earn%20a%20limited%20edition%20T-shirt%21%20by%20contributing%20your%20profile%20in%20Awesome%20Contributors%20by%20@WajahatKarim&hashtags=DigitalOcean%2CThePracticalDev%2Copensource%20">
         <img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"/>
@@ -42,7 +42,7 @@
 ***  
   
 # ❓ What's Hacktoberfest 2019?
-Hacktoberfest is the easiest way to get into open source! Hacktoberfest is a month long festival of open source code presented by [Digital Ocean](https://www.digitalocean.com/) and [DEV](https://www.dev.to/) this year in 2019.
+Hacktoberfest is the easiest way to get into open source project!!! Hacktoberfest is a month long festival of open source code presented by [Digital Ocean](https://www.digitalocean.com/) and [DEV](https://www.dev.to/) this year in 2019.
 
 During the entire month of October 2019, all you have to do is contribute to any open source projects and open at least 4 pull requests. Yes, any project and any kind of contributions. It can be a be a bug fix, improvement, or even a documentation change! And win a T-Shirt and awesome stickers.
 
